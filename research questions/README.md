@@ -1,6 +1,5 @@
-
 # Research questions
-To make our understanding of what the software should look like more clear we have come up with a main research question and several sub-questions:
+To make our understanding of what the software should look like more clear we have come up with a main research question and several sub-questions. See ... for an introduction to the general introduction to micro-services and the analogy to guilds, party members and roles.
 
 How to structure community driven software development?
 - How to ensure that the right micro-services are developed?
@@ -13,9 +12,10 @@ How to structure community driven software development?
 - How to built a clear and representative reputation-system?
 - How to create an easy development platform for the feedbackfruitsplatform? (requirements testing)
 
+Process
 - What limitations does the existing software impose on our system?
 - What existing software is there available already?
 
-These questions can essentially be split into two different categories: front-end and back-end.
+These questions can essentially be split into two different categories: requirement handling and community interaction.
 
 
