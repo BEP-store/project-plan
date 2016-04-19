@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Problem description](problem/README.md)
-* Research questions
+* [Research questions](research questions/README.md)
 
