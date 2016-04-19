@@ -13,4 +13,9 @@ How to structure community driven software development?
 - How to built a clear and representative reputation-system?
 - How to create an easy development platform for the feedbackfruitsplatform? (requirements testing)
 
+- What limitations does the existing software impose on our system?
+- What existing software is there available already?
+
+These questions can essentially be split into two different categories: front-end and back-end.
+
 
