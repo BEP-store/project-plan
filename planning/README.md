@@ -23,5 +23,5 @@ In conclusion, the last phase of the project will be the presentation phase. A f
 **SS** : Sprint Planning  
 **SR** : Sprint Review
 
-**PM** : Proces Meeting
+**PM** : Proces Meeting  
 **SIG** : SIG Code Quality Control
