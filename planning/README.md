@@ -10,16 +10,18 @@ In conclusion, the last phase of the project will be the presentation phase. A f
 |Tuesday|PP| | | | | | | | | |
 |Wednesday| | | | | | | | | | |
 |Thursday| | | | | | | | | | |
-|Friday| |CR|SR|SR|SR|SR, SIG|SR|SR|SR, FR, SIG|P|
+|Friday| |RR|SR, PD|SR, PM|SR|SR, PM, SIG|SR|SR, PM|SR, FR, SIG|P|
 
 **S** : Start of the project  
 **P** : Final presentation
 
 **PP** : Project Plan  
-**CR** : Research Report  
+**RR** : Research Report, Research Review  
+**PD** : Product Description  
 **FR** : Final Report
 
 **SS** : Sprint Planning  
 **SR** : Sprint Review
 
+**PM** : Proces Meeting
 **SIG** : SIG Code Quality Control
